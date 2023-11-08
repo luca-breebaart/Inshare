@@ -9,7 +9,7 @@
   <h3 align="left">DV200 Term 4</h3>
 
   <p align="left">
-Welcome to our Q&A Platform named inshare designed to facilitate Open Window Development students' collaboration, learning, and knowledge-sharing. This README provides an overview of the project, its features, functionality, and the planning undertaken during its development. inShare Platform is tailored specifically for Open Window Development students, aiming to create a centralised space for asking questions, sharing insights, and fostering a community-driven learning environment. The theme revolves around simplicity, accessibility, and user engagement. We incorporated an orange and white themed platform for easy readability
+Welcome to our Q&A Platform named inshare designed to facilitate Open Window Development students' collaboration, learning, and knowledge-sharing. This README provides an overview of the project, its features, functionality, and the planning undertaken during its development. inShare Platform is tailored specifically for Open Window Development students, aiming to create a centralised space for asking questions, sharing insights, and fostering a community-driven learning environment. The theme revolves around simplicity, accessibility, and user engagement. We incorporated an orange and white-themed platform for easy readability.
 
  <br>
     
