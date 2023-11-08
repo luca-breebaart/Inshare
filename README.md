@@ -63,7 +63,7 @@ Ensure that you have the latest version of React, Node.js and Express.js is inst
 
 ## How to install
 
-Here are a couple of ways to clone this repo:
+Here is how to clone this repo:
 
 
 1. Open Visual Studio in a folder you want to clone the project
