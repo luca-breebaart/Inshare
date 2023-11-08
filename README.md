@@ -113,21 +113,7 @@ The website will be accessible at http://localhost:3000.
 - Reputation points based on the quality and quantity of contributions.
 
 
-![Alt text](login.png)
 
-<br>
-
-![Alt text](home.png
-)
-
-<br>
-
-![Alt text](post.png
-)
-<br>
-
-![Alt text](edit.png
-)
 
 <br>
 
@@ -146,14 +132,10 @@ The website will be accessible at http://localhost:3000.
 - Backend: Node.js, Express, MongoDB
 - Additional: Git for version control, Figma for design mockups, and Postman for API testing.
 
-  <!-- Mockups--!>
-  
-![Alt text](1.png
-)
-![Alt text](2.png
-)
-![Alt text](3.png
-)
+
+![Screenshot 2023-11-08 at 23 33 11 (2)](https://github.com/DieterR97/DV200-4/assets/113914027/5b4dbf9d-70a1-4ea8-830e-fa330b76b08c)
+
+![Screenshot 2023-11-08 at 23 33 31 (2)](https://github.com/DieterR97/DV200-4/assets/113914027/4160cc01-bf41-49f1-9ffd-79045ca853c8)
 <!-- VIDEO DEMONSTRATION -->
 ### Video Demonstration
 
