@@ -124,11 +124,7 @@ and from the client folder
 - Categorisation of questions through tags.
 - Easy search functionality based on tags.
 
-### 4. Notifications and User Engagement:
-- Notification system for updates on answered questions, comments, and mentions.
-- User engagement features, such as commenting and direct messaging.
-
-### 5. User Profiles and Reputation:
+### 4. User Profiles and Reputation:
 - User profiles highlighting questions asked, answered, and overall contributions.
 - Reputation points based on the quality and quantity of contributions.
 
