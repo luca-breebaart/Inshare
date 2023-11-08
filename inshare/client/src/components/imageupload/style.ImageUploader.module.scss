@@ -1,0 +1,38 @@
+.wad {
+    width: 100px;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    grid-gap: 32px;
+    padding: 32px;
+}
+
+.output {
+    display: grid;
+    grid-gap: 8px;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    width: 100%;
+    max-width: 1000px;
+}
+
+.myconfig {
+    --darkmode: 0;
+    --h-accent: 29;
+    --s-accent: 100%;
+    --l-accent: 50%;
+}
+
+.uploadButton {
+    border: 1px solid white;
+    color: white;
+    background-color: #F16236;
+    width: 200px;
+}
+
+

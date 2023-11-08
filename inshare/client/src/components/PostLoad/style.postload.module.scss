@@ -1,0 +1,57 @@
+.card {
+    width: 100%;
+    border-radius: 10px;
+    border: 2px solid #d9d9d99c;
+    background: #ffffff00;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 10px;
+
+    .placeholderText,
+    .placeholderImage,
+    .placeholderCategory,
+    .placeholderAuthor,
+    .placeholderDate,
+    .placeholderComments {
+        background: linear-gradient(90deg, #eeeeee 10%, #dddddd 25%, #eeeeee 40%, #dddddd 55%, #eeeeee 70%, #dddddd 85%, #eeeeee 100%);
+        height: 18px;
+        width: 80%;
+        margin-bottom: 10px;
+        background-size: 200% 100%;
+        animation: gradientAnimation 1.5s infinite;
+    }
+
+    @keyframes gradientAnimation {
+        0% {
+            background-position: 100% 0;
+        }
+
+        100% {
+            background-position: -100% 0;
+        }
+    }
+
+    .placeholderImage {
+        height: 150px;
+        width: 100%;
+        margin-bottom: 10px;
+    }
+
+    .placeholderCategory {
+        height: 24px;
+        width: 50%;
+        margin-top: -40px;
+        margin-bottom: 5px;
+    }
+
+    .placeholderAuthor,
+    .placeholderDate,
+    .placeholderComments {
+        height: 16px;
+        width: 40%;
+    }
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+}

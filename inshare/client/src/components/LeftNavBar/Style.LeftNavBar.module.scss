@@ -1,0 +1,136 @@
+.homeContainer {
+    margin: 0;
+    padding: 0;
+}
+
+.logosection {
+    position: absolute;
+    bottom: 30px;
+    right: 0px;
+    left: 0px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.logocontainer {
+    width: 50%;
+    height: auto;
+}
+
+.navigation {
+    height: 100%;
+    background-color: #FFFFFF;
+    margin: 0;
+    background: linear-gradient(90deg, #FFF 0%, #FFF 12.3%, #F5F7F9 12.63%, #F5F7F9 13.71%, #FFF 13.93%, #FFF 100%);
+   // box-shadow: 0px 0px 250px 0px rgba(0, 0, 0, 0.10);
+}
+
+
+.navigationcontainer {
+    padding-top: 50px;
+    background-color: none;
+    background: linear-gradient(90deg, #FFF 0%, #FFF 12.3%, #F5F7F9 12.63%, #F5F7F9 13.71%, #FFF 13.93%, #FFF 100%);
+    box-shadow: 0px 0px 250px 0px rgba(0, 0, 0, 0.10);
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    bottom: 0px;
+    width: 17%;
+}
+
+@media (max-width: 768px) {
+    .navigationcontainer {
+        width: 100%;
+        position: static;
+        height: 100%;
+    }
+}
+
+.navigationcontainer2 {
+    position: relative;
+    height: 100vh;
+    width: 100%;
+    background-color: #F16236;
+}
+
+.navList {
+    padding-top: 20px;
+}
+
+.navLinkActive {
+    background: #F7F7F7;
+}
+
+.navlink {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    padding: 10px;
+    margin: 10px;
+}
+
+.navitem {
+    padding-top: 0px;
+    text-decoration: none;
+}
+
+.navitemcurrent {
+    padding-top: 0px;
+    background: linear-gradient(90deg, #FFF 0%, #FFF 12.3%, #F16236 12.63%, #F16236 13.71%, #FFF 13.93%, #FFF 100%);
+    color: #F16236;
+    text-decoration: none;
+}
+
+.navitem:hover {
+    cursor: pointer;
+}
+
+.navitemcurrent:hover {
+    cursor: pointer;
+}
+
+.icon {
+    color: black;
+    margin-right: 10px;
+    font-size: 18px;
+}
+
+.body {
+    // background-color: #5E56E5;
+    width: 100%;
+    height: 100%;
+}
+
+// ===============================
+// NEW 
+
+// .navlink:hover {
+//     color: rgb(0, 0, 0);
+//     text-decoration: none;
+//     background-color: rgb(255, 255, 255);
+// }
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.linkItem:hover {
+    background-color: #F16236;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.linkItem:hover .icon {
+    color: white;
+}
+
+.linkItem:hover a {
+    color: white;
+}
+
+.linkItem {
+    display: flex;
+    align-items: center;
+    margin-left: 12.4%;
+    padding-left: 12.6%;
+}

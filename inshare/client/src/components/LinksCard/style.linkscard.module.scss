@@ -1,0 +1,54 @@
+.card {
+    width: 100%;
+    border-radius: 10px;
+    border: 2px solid #D9D9D9;
+    background: #FFF;
+    padding: 20px;
+    margin: auto;
+    margin-top: 20px;
+    word-break: break-word;
+    overflow-wrap: break-word;
+    overflow: hidden;
+}
+
+@media (max-width: 1100px) {
+    .card {
+        width: 100%;
+    }
+}
+
+.textcontainer {
+    padding-top: 10px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+
+.leftColumn,
+.rightColumn {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.divider {
+    width: 100%;
+    border: none;
+    border-top: 2px solid #9c9c9c;
+    margin: 20px 0;
+}
+
+.footerText {
+    text-align: center;
+}
+
+.textabout {
+    background-color: aqua;
+}
+
+.optionHover:hover {
+    color: #F16236;
+    cursor: pointer;
+}

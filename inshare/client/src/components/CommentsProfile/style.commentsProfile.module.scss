@@ -1,0 +1,134 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.voteicons {
+    display: flex;
+    flex-direction: column;
+    margin-right: 20px;
+    background-color: #ffffff
+}
+
+.voteicons span {
+    margin-bottom: 10px;
+}
+
+.commentpost {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+    gap: 10px;
+    padding-bottom: 20px;
+    border-bottom: 2px solid #D9D9D9;
+}
+
+.comments {
+    margin-top: 20px;
+    padding: 5px;
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    width: 100%;
+    padding: 10px;
+}
+
+.commentstext {
+    border-left: 2px solid #D9D9D9;
+    margin-top: 20px;
+    padding-left: 20px;
+}
+
+.commentscontainer {
+    position: relative;
+    width: 100%;
+}
+
+.userheading {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.thumbsup:hover {
+    cursor: pointer;
+    color: #777;
+}
+
+.thumbsdown:hover {
+    cursor: pointer;
+    color: #777;
+}
+
+.flagIcon:hover {
+    cursor: pointer;
+    color: #777;
+}
+
+.flagHover:hover {
+    cursor: pointer;
+}
+
+.LatoFont {
+    font-family: 'Lato', sans-serif;
+}
+
+.PoppinsFont {
+    font-family: 'Poppins', sans-serif;
+}
+
+.voteCountContainer {
+    -webkit-tap-highlight-color: transparent;
+    -webkit-text-size-adjust: 100%;
+    --antd-wave-shadow-color: #8550E9;
+    --scroll-bar: 0;
+    --pericles-word-background: rgba(9, 46, 140, 0.92);
+    --pericles-section-background: rgba(255, 254, 219, 1.54);
+    font-feature-settings: 'tnum';
+    font-variant: tabular-nums;
+    line-height: 1.7715;
+    list-style: none;
+    font-family: futura-pt,
+        sans-serif;
+    box-sizing: border-box;
+    background: #404559;
+    padding: 2.5px;
+    min-width: 30px;
+    text-align: center;
+    border-radius: 5px;
+    font-size: 14px;
+    color: #fff;
+    font-weight: bold;
+    margin-left: -7px;
+}
+
+.postedTime {
+    display: inline-flex;
+}
+
+.bestAnswer {
+
+    color: #095839;
+    background-color: #d2ffe5;
+    font-weight: 400;
+    padding: 7px;
+    padding-left: 10px;
+    /* border: 2px solid black; */
+    border-radius: 20px;
+    margin-bottom: 10px;
+}
+
+.userinfo {
+    display: flex;
+}
+
+/* Style for a disabled button */
+.disabledButton {
+    color: #999;
+    /* Change the text color to a lighter shade */
+    cursor: not-allowed;
+    /* Change the cursor to indicate that it's not clickable */
+    opacity: 0.6;
+    /* Optionally reduce the opacity to further indicate its disabled state */
+}

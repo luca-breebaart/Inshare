@@ -1,0 +1,271 @@
+.card {
+    width: 100%;
+    border-radius: 10px;
+    border: 2px solid #D9D9D9;
+    background: #ffffff;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 10px;
+    position: relative;
+    z-index: 100;
+}
+
+.voteicons {
+    display: flex;
+    flex-direction: column;
+    margin-right: 20px;
+}
+
+.voteicons span {
+    margin-bottom: 10px;
+}
+
+.cardcontent {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    word-break: break-word;
+    overflow-wrap: break-word;
+    overflow: hidden;
+}
+
+.cardheader {
+    font-weight: bold;
+    font-size: 18px;
+    margin-bottom: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.cardbody {
+    font-size: 18px;
+    margin-bottom: 10px;
+    text-align: left;
+    overflow: hidden;
+}
+
+.cardcategories {
+
+    display: flex;
+    justify-content: left;
+    flex-wrap: wrap;
+    padding-bottom: 10px;
+}
+
+.category {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 6px 8px;
+    margin-right: 10px;
+    margin-bottom: 5px;
+    font-size: 16px;
+    background-color: #fff;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.cardfooter {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 16px;
+    color: #777;
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
+
+.author {
+    margin-right: 10px;
+}
+
+.commentsIcon {
+    margin-right: 5px;
+    font-weight: 500;
+}
+
+
+.postImage {
+    width: auto;
+    margin-bottom: 20px;
+    max-width: 100%;
+    object-fit: cover;
+}
+
+.cardbodyWithImage {
+    font-size: 18px;
+    margin-bottom: 10px;
+    text-align: left;
+    width: 100%;
+}
+
+.category:hover {
+    cursor: pointer;
+}
+
+//new somment section
+.commentInput {
+    display: flex;
+    align-items: center;
+    margin-top: 16px;
+}
+
+.commentInputField {
+    width: 100%;
+    height: 100px;
+    padding: 8px;
+    font-size: 16px;
+    border-radius: 10px;
+    border: 1.5px solid #D9D9D9;
+}
+
+.postButton {
+    margin-left: 10px;
+    background-color: #F16236;
+    border: none;
+    width: 120px;
+}
+
+.postButton:hover {
+    background-color: white;
+    border: 1px solid black;
+    color: black;
+}
+
+.commentpost {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+    gap: 10px;
+    padding-bottom: 20px;
+    border-bottom: 2px solid #D9D9D9;
+}
+
+.category:hover {
+    cursor: pointer;
+    background-color: #F16236;
+}
+
+.thumbsup:hover {
+    cursor: pointer;
+    color: #777;
+}
+
+.thumbsdown:hover {
+    cursor: pointer;
+    color: #777;
+}
+
+.flagIcon:hover {
+    cursor: pointer;
+    color: #777;
+}
+
+.flagHover:hover {
+    cursor: pointer;
+}
+
+.postHeader {
+    -webkit-tap-highlight-color: transparent;
+    -webkit-text-size-adjust: 100%;
+    --antd-wave-shadow-color: #8550E9;
+    --scroll-bar: 0;
+    --pericles-word-background: rgba(9, 46, 140, 0.92);
+    --pericles-section-background: rgba(255, 254, 219, 1.54);
+    font-feature-settings: 'tnum';
+    font-variant: tabular-nums;
+    line-height: 1.5715;
+    list-style: none;
+    font-family: futura-pt,
+        sans-serif;
+    font-weight: bold !important;
+    margin: 0 !important;
+    text-transform: capitalize;
+    // color: rgba(255, 255, 255, .85);
+    box-sizing: border-box;
+}
+
+.voteCountContainer {
+    -webkit-tap-highlight-color: transparent;
+    -webkit-text-size-adjust: 100%;
+    --antd-wave-shadow-color: #8550E9;
+    --scroll-bar: 0;
+    --pericles-word-background: rgba(9, 46, 140, 0.92);
+    --pericles-section-background: rgba(255, 254, 219, 1.54);
+    font-feature-settings: 'tnum';
+    font-variant: tabular-nums;
+    line-height: 1.7715;
+    list-style: none;
+    font-family: futura-pt,
+        sans-serif;
+    box-sizing: border-box;
+    background: #404559;
+    padding: 2.5px;
+    min-width: 30px;
+    text-align: center;
+    border-radius: 5px;
+    font-size: 14px;
+    color: #fff;
+    font-weight: bold;
+    margin-left: -7px;
+}
+
+/* Style for a disabled button */
+.disabledButton {
+    color: #999;
+    /* Change the text color to a lighter shade */
+    cursor: not-allowed;
+    /* Change the cursor to indicate that it's not clickable */
+    opacity: 0.6;
+    /* Optionally reduce the opacity to further indicate its disabled state */
+}
+
+pre {
+    background-color: #f5f5f5;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 16px;
+    margin: 16px 0;
+    font-family: monospace;
+    overflow-x: auto;
+}
+
+/* Style the block quote container */
+blockquote {
+    background-color: #f9f9f9;
+    border-left: 4px solid #d1d1d1;
+    margin: 1em 0;
+    padding: 10px 20px;
+}
+
+/* Style the block quote text */
+blockquote p {
+    font-style: italic;
+    margin: 0;
+}
+
+/* Add some additional styling for the quote source */
+blockquote footer {
+    margin-top: 10px;
+    text-align: right;
+    font-style: normal;
+    font-weight: bold;
+}
+
+/* Change the color of the border and the background */
+blockquote.special {
+    border-left-color: #ff5733;
+    background-color: #fdf5e6;
+}
+
+/* Adjust the border width and style */
+blockquote.thick-border {
+    border-left-width: 8px;
+    border-left-style: double;
+}

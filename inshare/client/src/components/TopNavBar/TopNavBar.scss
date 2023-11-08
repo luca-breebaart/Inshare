@@ -1,0 +1,241 @@
+.NavbarContainer {
+    width: 100%;
+    height: 150px;
+    // margin-left: 0px;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.navbarInnerTop {
+    height: 75px;
+    background: linear-gradient(70deg, #F16236 49%, white 11.05ch);
+}
+
+.navbarInnerTopLeft {
+    width: 70%;
+    // display: flex;
+    // flex-direction: row;
+    // justify-content: left;
+    // align-items: center;
+    // vertical-align: middle;
+}
+
+.navbarInnerTopRight {
+    width: 30%;
+    justify-content: flex-end;
+    margin-right: 3%;
+}
+
+.formSearch {
+    margin-left: 50px;
+    background-color: #F16236;
+    color: white;
+    border-left: none;
+}
+
+.formSearch::placeholder {
+    color: white;
+}
+
+.formSearch:focus {
+    background-color: #F16236;
+    color: white;
+    outline: none;
+    box-shadow: none;
+    border: 1px solid white;
+    border-left: none;
+}
+
+.search-container {
+    // display: flex;
+    align-items: center;
+}
+
+.search-input {
+    padding-right: 30px;
+    /* Adjust this value based on the size of your icon */
+}
+
+.search-icon {
+    margin-right: 5px;
+    /* Adjust the margin to control the space between the icon and the input */
+    position: absolute;
+    color: #ffffff;
+
+}
+
+.input-group-text {
+    background-color: #F16236;
+    color: white;
+    border-right: none;
+}
+
+.form-control {
+    padding-left: 0px;
+}
+
+.input-group {
+    width: 50%;
+    margin-left: 3%;
+}
+
+.btnSignUp {
+    background-color: #ffffff;
+    border: 1px solid black;
+    color: black;
+    width: 40%;
+}
+
+.btnSignUp:hover {
+    background-color: #F16236;
+    border: 1px solid #F16236;
+    color: white;
+}
+
+.btnLogin {
+    margin-left: 10px;
+    background-color: #F16236;
+    border: none;
+    width: 40%;
+}
+
+.btnRandom {
+    margin-left: 10px;
+    background-color: #F16236;
+    border: none;
+    width: 30%;
+}
+
+.btnLogin:hover {
+    background-color: white;
+    border: 1px solid black;
+    color: black;
+}
+
+.navbarInnerBottom {
+    height: 75px;
+    background: linear-gradient(248deg, #F16236 49%, white 11.05ch);
+    border-bottom: 2px solid #F5F7F9;
+}
+
+.navbarInnerBottomLeft {
+    width: 70%;
+
+}
+
+.navbarInnerBottomRight {
+    width: 30%;
+    justify-content: flex-end;
+    margin-right: 3%;
+    margin-bottom: 1.5%;
+}
+
+.btnCreatePost {
+    border: 1px solid white;
+    color: white;
+    background-color: #F16236;
+    width: 200px;
+}
+
+.btnCreatePost:hover {
+    border: 1px solid white;
+    color: white;
+    background-color: #F16236;
+    border: 1px solid white;
+    color: #F16236;
+    background-color: white;
+}
+
+.navlink {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    margin-left: 10px;
+}
+
+.activeHeading {
+    border-bottom: 4px solid #F16236;
+}
+
+.activeIcon {
+    color: #F16236;
+}
+
+.navbarPostRankHeadings {
+    margin-left: 3%;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-bottom: 2%;
+}
+
+.navbarPostRankHeadings:hover a {
+    color: white;
+}
+
+.navbarPostRankHeadings:hover .headerIcon {
+    color: white;
+}
+
+.navbarPostRankHeadings:hover {
+    background-color: #F16236;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    cursor: pointer;
+}
+
+.tagsSelect {
+    width: 40%;
+}
+
+.Sidebar {
+    position: absolute;
+    width: 40%;
+    top: 0px;
+    right: 0px;
+    z-index: -200;
+    border-top: 3200px solid #F5F7F9;
+    border-left: 950px solid #fff;
+    // position: absolute;
+    //   top: 0px;
+    // right: 0px;
+    // background: linear-gradient(70deg, #15ff00 49%, white 11.05ch);
+    // position: relative;
+    // width: 5%;
+    // height: 2000px;
+    // z-index: -20;
+    // background-color: #F16236;
+}
+
+
+.cardfooter {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 10px;
+}
+
+.cancelButton {
+    background-color: #ffffff;
+    border: 1px solid black;
+    color: black;
+    width: 100%;
+}
+
+.cancelButton:hover {
+    background-color: #F16236;
+    border: 1px solid #F16236;
+    color: white;
+}
+
+.postButton {
+    background-color: #F16236;
+    border: none;
+    width: 100%;
+}
+
+.postButton:hover {
+    background-color: white;
+    border: 1px solid black;
+    color: black;
+}

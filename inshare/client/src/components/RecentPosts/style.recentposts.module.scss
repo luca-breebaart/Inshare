@@ -1,0 +1,70 @@
+/* RecentPosts.css */
+
+// body {
+//   display: flex;
+//   justify-content: center;
+//   align-items: center;
+//   height: 100vh;
+//   margin: 0;
+//   height: auto;
+//   padding-bottom: 20px;
+// }
+
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+.recentpostscard {
+  width: 100%;
+  border-radius: 10px;
+  border: 2px solid #D9D9D9;
+  background: #FFF;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  margin-top: 20px;
+  border-radius: 10px;
+  word-break: break-word;
+  overflow-wrap: break-word;
+  overflow: hidden;
+}
+
+
+.recentpostscard h2 {
+  font-size: 24px;
+  margin-bottom: -10px;
+}
+
+.recentpostscontainer {
+  overflow-y: auto;
+}
+
+.post {
+  margin-top: 25px;
+  padding: 10px;
+  border-radius: 10px;
+  background: #F5F5F5;
+  width: 100%;
+}
+
+.post h3 {
+  font-size: 18px;
+  /* Adjust the font size for the post title */
+  margin: 0;
+}
+
+.post p {
+  font-size: 16px;
+  /* Adjust the font size for post content */
+  margin: 3px 0;
+}
+
+.postname {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
+
+// Nav
+
