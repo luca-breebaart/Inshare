@@ -1,7 +1,3 @@
-# Term4_DV200_JarrydCarelse_221267
-Term 4 readme file with demonstration video
-
-![Alt text](Untitled.png)
 <h5 align="center" style="padding:0;margin:0;">Luca Breebaart</h5>
 <h5 align="center" style="padding:0;margin:0;">221267</h5>
 <h6 align="center">DV200 2023</h6>
@@ -21,7 +17,7 @@ Welcome to our Q&A Platform named inshare designed to facilitate Open Window Dev
     
    <br />
    <br />
-   <a href="[path/to/demonstration/video](https://drive.google.com/file/d/1YDD7NSIVLwmQw2guMqgMxzreg7841RY2/view?usp=sharing)">View Demo</a>
+   <a href=https://drive.google.com/file/d/1nRaDlIqRUVv-yLDZjAS0ofccUM6J9VNP/view?usp=sharing>View Demo</a>
 </p>
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
@@ -57,14 +53,14 @@ Technologies
 
 ### Built With
 
-* Figma - Design
-*VS code - Code
-*MongoDB- Database
-*Express.js - building restful APIs with Node.js
-*React App- Framework
-*Node.js - Node.js is a back-end JavaScript runtime environment 
-*Uploadcare - Image upload
-*Insomnia - Populating the database
+- Figma: Design
+- VS code: Code
+- MongoDB: Database
+ -Express.js: building restful APIs with Node.js
+- React App: Framework
+- Node.js: Node.js is a back-end JavaScript runtime environment 
+ -Uploadcare: Image upload
+- Insomnia: Populating the database
 
 
 ## Getting Started
@@ -167,17 +163,6 @@ To see a run-through of the application, click below:
 
 [View Demonstration](https://drive.google.com/file/d/1YDD7NSIVLwmQw2guMqgMxzreg7841RY2/view?usp=sharing)
 
-<!-- AUTHORS -->
 ## Authors
 
-* **Jarryd Carelse** 
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.\
-
-<!-- LICENSE -->
-## Contact
-
-* **Jarryd Carelse** - [221267@virtualwindow.co.za](mailto:email@address)
+* **Luca Breebaart** - [luca-breebaart](https://github.com/luca-breebaart)
