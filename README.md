@@ -27,7 +27,7 @@ Welcome to our Q&A Platform named inshare designed to facilitate Open Window Dev
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
   * [How to install](#how-to-install)
-* [Features and Functionality](#features-and-functionality)
+* [Features and Functionality](#Project-Features)
 * [Development Process](#development-process)
 * [Final Outcome](#final-outcome)
     * [Mockups](#mockups)
