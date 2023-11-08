@@ -18,6 +18,7 @@ Welcome to our Q&A Platform named inshare designed to facilitate Open Window Dev
    <a href=https://drive.google.com/file/d/1nRaDlIqRUVv-yLDZjAS0ofccUM6J9VNP/view?usp=sharing>View Demo</a>
 </p>
 <!-- TABLE OF CONTENTS -->
+
 ## Table of Contents
 
 * [About the Project](#about-the-project)
