@@ -1,6 +1,6 @@
-<h5 align="left" style="padding:0;margin:0;">Luca Breebaart</h5>
-<h5 align="left" style="padding:0;margin:0;">221267</h5>
-<h6 align="left">DV200 2023</h6>
+<h1 align="left" style="padding:0;margin:0;">Luca Breebaart</h1>
+<h2 align="left" style="padding:0;margin:0;">221267</h4>
+<h3 align="left">DV200 2023</h3>
 </br>
 <p align="left">
 
