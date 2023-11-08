@@ -163,6 +163,9 @@ To see a run-through of the application, click below:
 
 [View Demonstration](https://drive.google.com/file/d/1YDD7NSIVLwmQw2guMqgMxzreg7841RY2/view?usp=sharing)
 
-## Authors
+**Authors**
+* Luca Breebart 221345@virtualwindow.co.za
+* Dieter Roelofse 221122@virtualwindow.co.za
+* Jarryd Carelse	221267@virtualwindow.co.za
+* Emily Fulford	221075@virtualwindow.co.za
 
-* **Luca Breebaart** - [luca-breebaart](https://github.com/luca-breebaart)
