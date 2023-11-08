@@ -65,30 +65,50 @@ Technologies
 
 The following instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-### How to install
+## Prerequisites
 
-### Installation
-To run InShare locally or contribute to the project, follow these steps:
+Ensure that you have the latest version of React, Node.js and Express.js is installed on your machine. The Plugin plugin will also be required.
 
-Clone the Repository:
+## How to install
 
-bash
-Copy code
-git clone [YourRepositoryURL]
-Install Dependencies:
+Here are a couple of ways to clone this repo:
 
-bash
-Copy code
-cd Solebox
-npm install
-Start the Development Server:
 
-bash
-Copy code
-npm start
-The website will be accessible at http://localhost:3000.
+1. Open Visual Studio in a folder you want to clone the project
 
-<!-- FEATURES AND FUNCTIONALITY-->
+2. Clone Repository </br>
+Run the following in the command-line to clone the project:
+   ```sh
+   git clone https://github.com/DieterR97/DV200-4.git
+   ```
+and cd into main folder
+   ```sh
+   cd inShareMERN_web
+   ```
+
+3. Install Dependencies </br>
+Run the following in the command-line to install all the required dependencies:
+   ```sh
+   npm install
+   ```
+and cd into client folder
+   ```sh
+   cd client
+   npm install
+   ```
+
+4. Run it </br>
+Run the following in the command-line to run this app:
+from the main folder
+   ```sh
+   npm run dev
+   ```
+and from the client folder
+   ```sh
+   npm start
+   ```
+
+### Project Features
 
 ### 1. User Authentication:
 - Secure login/registration for students and faculty members.
