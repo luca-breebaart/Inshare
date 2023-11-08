@@ -1,17 +1,15 @@
-<h5 align="center" style="padding:0;margin:0;">Luca Breebaart</h5>
-<h5 align="center" style="padding:0;margin:0;">221267</h5>
-<h6 align="center">DV200 2023</h6>
+<h5 align="left" style="padding:0;margin:0;">Luca Breebaart</h5>
+<h5 align="left" style="padding:0;margin:0;">221267</h5>
+<h6 align="left">DV200 2023</h6>
 </br>
-<p align="center">
+<p align="left">
 
   ![Frame 4](https://github.com/DieterR97/DV200-4/assets/113914027/6bbbfd4e-2e11-43cd-aa2f-68de430d86f2)
   
-  <h3 align="center">DV200 Term 4</h3>
+  <h3 align="left">DV200 Term 4</h3>
 
-  <p align="center">
+  <p align="left">
 Welcome to our Q&A Platform named inshare designed to facilitate Open Window Development students' collaboration, learning, and knowledge-sharing. This README provides an overview of the project, its features, functionality, and the planning undertaken during its development. inShare Platform is tailored specifically for Open Window Development students, aiming to create a centralised space for asking questions, sharing insights, and fostering a community-driven learning environment. The theme revolves around simplicity, accessibility, and user engagement. We incorporated an orange and white themed platform for easy readability
-
-
 
  <br>
     
