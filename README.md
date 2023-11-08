@@ -134,7 +134,7 @@ The website will be accessible at http://localhost:3000.
 
 ### Final Outcome
 
-##Mockups
+## Mockups
 
 ![Screenshot 2023-11-08 at 23 33 11 (2)](https://github.com/DieterR97/DV200-4/assets/113914027/5b4dbf9d-70a1-4ea8-830e-fa330b76b08c)
 
