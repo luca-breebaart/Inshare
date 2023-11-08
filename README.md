@@ -28,15 +28,10 @@ Welcome to our Q&A Platform named inshare designed to facilitate Open Window Dev
   * [Prerequisites](#prerequisites)
   * [How to install](#how-to-install)
 * [Features and Functionality](#features-and-functionality)
-   * [Wireframes](#wireframes)
 * [Development Process](#development-process)
 * [Final Outcome](#final-outcome)
     * [Mockups](#mockups)
     * [Video Demonstration](#video-demonstration)
-* [Conclusion](#conclusion)
-* [License](#license)
-* [Contact](#contact)
-
 
 <!--PROJECT DESCRIPTION-->
 
