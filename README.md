@@ -83,7 +83,7 @@ Run the following in the command-line to clone the project:
    ```
 and cd into main folder
    ```sh
-   cd inShareMERN_web
+   cd inShare
    ```
 
 3. Install Dependencies </br>
