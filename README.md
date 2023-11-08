@@ -30,8 +30,6 @@ Welcome to our Q&A Platform named inshare designed to facilitate Open Window Dev
    * [Wireframes](#wireframes)
 * [Development Process](#development-process)
    * [Implementation Process](#implementation-process)
-        * [Highlights](#highlights)
-        * [Challenges](#challenges)
    * [Future Implementation](#peer-reviews)
 * [Final Outcome](#final-outcome)
     * [Mockups](#mockups)
