@@ -67,7 +67,7 @@ The following instructions will get you a copy of the project up and running on 
 
 ## Prerequisites
 
-Ensure that you have the latest version of React, Node.js and Express.js is installed on your machine. The Plugin plugin will also be required.
+Ensure that you have the latest version of React, Node.js and Express.js is installed on your machine.
 
 ## How to install
 
